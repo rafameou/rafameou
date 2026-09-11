@@ -1,5 +1,7 @@
 Hey, my name is Rafael!
 
+Some of my repos are in Codeberg https://codeberg.org/rafameou
+
 CS Student at Universidade Tecnológica Federal do Paraná (UTFPR), campus Ponta Grossa.\
 Probably future teacher, who knows.\
 I really like Linux, Windows (ew), Nix, C, C++, Qt, Vim and cats 🐈‍⬛🐈🐈‍⬛🐈🐈‍⬛🐈🐈‍⬛🐈🐈‍⬛🐈🐈‍⬛🐈🐈‍⬛🐈🐈‍⬛🐈\
